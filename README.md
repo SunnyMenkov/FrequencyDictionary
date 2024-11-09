@@ -1,1 +1,1 @@
-#3 Java laboratory work #2
+Java laboratory work #2
